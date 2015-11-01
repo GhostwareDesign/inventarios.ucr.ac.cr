@@ -21,6 +21,7 @@
         <div id="deco"><img src="<?php echo base_url();?>img/deco.png" id="deco-img"></div>
         <div id="blue">
             <div id="panel">
+                <img src="http://localhost/inventarios.ucr.ac.cr/img/fondo.jpg">
             </div>
         </div>
         <div id="formulario">
