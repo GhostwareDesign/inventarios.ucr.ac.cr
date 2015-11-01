@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/inventario.ucr.ac.cr/';
+$config['base_url'] = 'http://localhost/inventarios.ucr.ac.cr/';
 
 /*
 |--------------------------------------------------------------------------
