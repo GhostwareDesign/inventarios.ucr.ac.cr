@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/08/2015, 01:29:06 AM
+    Author     : pedro
+*/
+#headinv{
+    background-color: rgba(25,205,150,0.7);
+    opacity: 1;
+    height: 60px;
+    z-index: 100;
+}
+
+#consultalbl{
+    font-size: 18px;
+}
+
+#table-inventario{
+    margin-left:auto;
+    margin-right:auto;
+}

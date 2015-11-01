@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Maqueta Inventario Ucr.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient7591"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7593" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7324"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7326" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6993">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6995" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6997" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6987"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6989" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6959"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6961" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6719">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6721" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6723" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5269"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5271" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4212"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c6c6c6;stop-opacity:1;"
+         offset="0"
+         id="stop4214" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4206"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.90980393;"
+         offset="0"
+         id="stop4208" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="linearGradient4210"
+       x1="61.119305"
+       y1="354.85188"
+       x2="170.20562"
+       y2="354.85188"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.0101525,-18.182746)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4212"
+       id="linearGradient4216"
+       x1="60.069305"
+       y1="354.85187"
+       x2="171.25562"
+       y2="354.85187"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.0101525,-18.182746)" />
+    <linearGradient
+       gradientTransform="translate(-0.50507017,42.931473)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4212"
+       id="linearGradient4216-1"
+       x1="60.069305"
+       y1="354.85187"
+       x2="171.25562"
+       y2="354.85187"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-0.50507017,42.931473)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="linearGradient4210-3"
+       x1="61.119305"
+       y1="354.85187"
+       x2="170.20563"
+       y2="354.85187"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5269"
+       id="linearGradient5273"
+       x1="985.90887"
+       y1="897.80886"
+       x2="1119.249"
+       y2="897.80886"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(17.225224,-419.14713)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6719"
+       id="radialGradient6725"
+       cx="1052.5789"
+       cy="897.80886"
+       fx="1052.5789"
+       fy="897.80886"
+       r="68.220067"
+       gradientTransform="matrix(1,0,0,0.3040586,17.225224,205.67523)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6719"
+       id="radialGradient6725-6"
+       cx="1052.5789"
+       cy="897.80884"
+       fx="1052.5789"
+       fy="897.80884"
+       r="68.22007"
+       gradientTransform="matrix(1,0,0,0.3040586,198.04254,204.66507)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(198.04254,-420.15728)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5269"
+       id="linearGradient5273-3"
+       x1="985.90887"
+       y1="897.80884"
+       x2="1119.249"
+       y2="897.80884"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991"
+       x1="1120.9524"
+       y1="759.02884"
+       x2="1180.9524"
+       y2="759.02884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.95238095,1.9047619)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1,0,0,0.44155159,-0.95238095,425.78321)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.1240667,0,0,0.43843021,-217.55681,668.15244)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991-1"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1240667,0,0,0.99293088,-217.55681,247.27043)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-253.88406,670.38124)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991-1-3"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-253.88406,252.3181)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-254.78369,1247.4982)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991-1-3-0"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-254.78369,829.43505)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-7"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.1240667,0,0,0.43843021,-218.45639,1245.2694)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991-1-2"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1240667,0,0,0.99293088,-218.45639,824.38738)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-8"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1,0,0,0.44155159,-1.8520009,1052.7253)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6987"
+       id="linearGradient6991-2"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.8520009,628.84652)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-4"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-295.34022,1864.0136)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7324"
+       id="linearGradient6991-1-3-0-0"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-295.34022,1445.9504)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-7-1"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.1240667,0,0,0.43843021,-259.01292,1861.7848)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7324"
+       id="linearGradient6991-1-2-3"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1240667,0,0,0.99293088,-259.01292,1440.9028)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-6"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-26.455955,1531.6732)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-3-0-3"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-26.455955,1113.61)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-1"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-262.59122,2464.4984)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-3-0-8"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-262.59122,2046.4352)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-7-0"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2826287,0,0,0.43471213,-403.90007,2465.0917)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-2-4"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2826287,0,0,0.98451039,-403.90007,2047.7789)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-6-4"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-29.910614,2141.9097)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-3-0-3-6"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-29.910614,1723.8465)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-6-4-0"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-56.966205,2727.5764)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-3-0-3-6-2"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-56.966205,2309.5132)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-3-7-1-8"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2483063,0,0,0.43549381,-289.6468,3050.1651)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-3-0-8-4"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2483063,0,0,0.98628071,-289.6468,2632.1019)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6993"
+       id="radialGradient7001-7-7-0-9"
+       cx="1150.9524"
+       cy="759.02887"
+       fx="1150.9524"
+       fy="759.02887"
+       r="31.549999"
+       gradientTransform="matrix(1.2826287,0,0,0.43471213,-430.9557,3050.7584)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7591"
+       id="linearGradient6991-1-2-4-7"
+       x1="1120.9524"
+       y1="759.02887"
+       x2="1180.9524"
+       y2="759.02887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2826287,0,0,0.98451039,-430.9557,2633.4456)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72"
+     inkscape:cx="1183.418"
+     inkscape:cy="-2034.7339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="707"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.81448644;stroke-opacity:1"
+       id="rect3357-0"
+       width="154.73886"
+       height="402.22626"
+       x="9.4234581"
+       y="562.11401" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1"
+       width="720.68854"
+       height="105.50553"
+       x="10.301514"
+       y="457.91599" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7"
+       width="567.70575"
+       height="402.04071"
+       x="164.06953"
+       y="562.20685" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="720.68854"
+       height="105.50553"
+       x="8.886837"
+       y="10.670088" />
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.86340719;stroke-opacity:1"
+       id="rect3357"
+       width="231.46155"
+       height="302.17224"
+       x="10.033241"
+       y="122.95355" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159"
+       width="482.85291"
+       height="304.05591"
+       x="247.48738"
+       y="123.02187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.36549"
+       y="198.78329"
+       id="text4161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4163"
+         x="36.36549"
+         y="198.78329"
+         style="font-size:17.5px">Nombre de Usuario</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4165"
+       width="170.71581"
+       height="23.233511"
+       x="33.355339"
+       y="207.87468" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="69.608269"
+       y="265.9165"
+       id="text4161-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4163-2"
+         x="69.608269"
+         y="265.9165"
+         style="font-size:17.5px">Contraseña</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4165-2"
+       width="170.71581"
+       height="23.233511"
+       x="32.829945"
+       y="275.0498" />
+    <rect
+       style="fill:url(#linearGradient4216);fill-opacity:1;stroke:url(#linearGradient4210);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4200"
+       width="108.08632"
+       height="37.375645"
+       x="62.629456"
+       y="317.98132" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.842659"
+       y="340.20465"
+       id="text4202"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="83.842659"
+         y="340.20465"
+         style="font-size:15px">Ingresar</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4216-1);fill-opacity:1;stroke:url(#linearGradient4210-3);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4200-5"
+       width="108.08632"
+       height="37.375645"
+       x="61.114231"
+       y="379.09555" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.327431"
+       y="401.31888"
+       id="text4202-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4204-4"
+         x="82.327431"
+         y="401.31888"
+         style="font-size:15px">Cancelar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.100641"
+       y="149.76926"
+       id="text4161-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4163-9"
+         x="19.100641"
+         y="149.76926"
+         style="font-size:17.5px">Ingreso al Sistema</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.89853"
+       y="75.544693"
+       id="text4305"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="188.89853"
+         y="75.544693"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309"
+       cx="65.154846"
+       cy="63.92794"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311"
+       width="108.08632"
+       height="30.304577"
+       x="64.649765"
+       y="49.280727" />
+    <rect
+       style="fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4545-7"
+       width="147.48227"
+       height="89.903572"
+       x="163.6244"
+       y="840.91797" />
+    <rect
+       style="fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4545-5-6"
+       width="149.50256"
+       height="89.903572"
+       x="162.57365"
+       y="748.97382" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.3132"
+       y="522.79059"
+       id="text4305-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1"
+         x="190.3132"
+         y="522.79059"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6"
+       cx="66.569527"
+       cy="511.17383"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5"
+       width="108.08632"
+       height="30.304577"
+       x="66.064445"
+       y="496.52661" />
+    <rect
+       style="fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4545-5"
+       width="149.50256"
+       height="89.903572"
+       x="161.66501"
+       y="656.03973" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.67857"
+       y="674.6897"
+       id="text4420-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-6-4"
+         x="170.67857"
+         y="674.6897"
+         style="font-size:12.5px">Ingresar Usuarios</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.68872"
+       y="694.89282"
+       id="text4420-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-2-2"
+         x="169.68872"
+         y="694.89282"
+         style="font-size:12.5px">Modificar Usuarios</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.69887"
+       y="715.05524"
+       id="text4420-61-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-0-4"
+         x="170.69887"
+         y="715.05524"
+         style="font-size:12.5px">Eliminar Usuarios</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.68872"
+       y="735.27856"
+       id="text4420-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-3-2"
+         x="169.68872"
+         y="735.27856"
+         style="font-size:12.5px">Consultar Usuarios</tspan></text>
+    <rect
+       style="fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4545"
+       width="147.48227"
+       height="89.903572"
+       x="162.65486"
+       y="564.62097" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.67857"
+       y="581.75562"
+       id="text4420-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-6"
+         x="168.67857"
+         y="581.75562"
+         style="font-size:12.5px">Ingresar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.67857"
+       y="603.979"
+       id="text4420-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-2"
+         x="168.67857"
+         y="603.979"
+         style="font-size:12.5px">Modificar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.67859"
+       y="626.16174"
+       id="text4420-61"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-0"
+         x="168.67859"
+         y="626.16174"
+         style="font-size:12.5px">Eliminar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.67857"
+       y="646.38507"
+       id="text4420-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-3"
+         x="168.67857"
+         y="646.38507"
+         style="font-size:12.5px">Consultar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.152287"
+       y="592.7428"
+       id="text4420"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422"
+         x="11.152287"
+         y="592.7428"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.682074"
+       y="688.79883"
+       id="text4420-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5"
+         x="16.682074"
+         y="688.79883"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="16.682074"
+         y="704.42383"
+         style="font-size:12.5px"
+         id="tspan4442" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.713104"
+       y="785.2912"
+       id="text4420-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12.713104"
+         y="785.2912"
+         style="font-size:12.5px"
+         id="tspan4442-3">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.18999"
+       y="764.88672"
+       id="text4420-9-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-6-4-4"
+         x="168.18999"
+         y="764.88672"
+         style="font-size:12.5px">Solicitud de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.454031"
+       y="885.29633"
+       id="text4420-7-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10.454031"
+         y="885.29633"
+         style="font-size:12.5px"
+         id="tspan4442-3-1">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="166.27686"
+       y="791.35211"
+       id="text4420-9-0-9-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-6-4-4-3"
+         x="166.27686"
+         y="791.35211"
+         style="font-size:12.5px">Consultar Solicitudes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.64812"
+       y="858.05261"
+       id="text4420-9-07"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-6-1"
+         x="169.64812"
+         y="858.05261"
+         style="font-size:12.5px">Consulta por xxxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.64812"
+       y="880.276"
+       id="text4420-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-2-8"
+         x="169.64812"
+         y="880.276"
+         style="font-size:12.5px">Consulta por xxxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.64813"
+       y="902.45874"
+       id="text4420-61-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-0-46"
+         x="169.64813"
+         y="902.45874"
+         style="font-size:12.5px">Consulta por xxxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.64812"
+       y="922.68207"
+       id="text4420-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-3-1"
+         x="169.64812"
+         y="922.68207"
+         style="font-size:12.5px">Consulta por xxxxx</tspan></text>
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.81448644;stroke-opacity:1"
+       id="rect3357-0-8"
+       width="154.73886"
+       height="402.22626"
+       x="824.99945"
+       y="107.34799" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-9"
+       width="720.68854"
+       height="105.50553"
+       x="825.8775"
+       y="3.1499906" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-0"
+       width="1747.5638"
+       height="402.04071"
+       x="979.64551"
+       y="107.44083" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1005.8892"
+       y="68.024597"
+       id="text4305-2-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-5"
+         x="1005.8892"
+         y="68.024597"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-4"
+       cx="882.14551"
+       cy="56.407833"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-3"
+       width="108.08632"
+       height="30.304577"
+       x="881.64044"
+       y="41.760616" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="826.72827"
+       y="137.97678"
+       id="text4420-97"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62"
+         x="826.72827"
+         y="137.97678"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="832.25806"
+       y="234.03281"
+       id="text4420-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-8"
+         x="832.25806"
+         y="234.03281"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="832.25806"
+         y="249.65781"
+         style="font-size:12.5px"
+         id="tspan4442-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="828.28906"
+       y="330.52518"
+       id="text4420-7-5-67"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="828.28906"
+         y="330.52518"
+         style="font-size:12.5px"
+         id="tspan4442-3-6">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="826.03003"
+       y="430.5303"
+       id="text4420-7-5-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="826.03003"
+         y="430.5303"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-7">Administrar Inventario</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4955"
+       width="1726.3507"
+       height="270.72089"
+       x="983.94122"
+       y="166.52463" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="989.97614"
+       y="188.35721"
+       id="text4420-97-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3"
+         x="989.97614"
+         y="188.35721"
+         style="font-size:12.5px">Cantidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1053.0074"
+       y="188.35727"
+       id="text4420-97-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-5"
+         x="1053.0074"
+         y="188.35727"
+         style="font-size:12.5px">Unidad de Medida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1174.2258"
+       y="188.35727"
+       id="text4420-97-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-6"
+         x="1174.2258"
+         y="188.35727"
+         style="font-size:12.5px">Descripción</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1254.0278"
+       y="188.35727"
+       id="text4420-97-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-8"
+         x="1254.0278"
+         y="188.35727"
+         style="font-size:12.5px">Precio Unitario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1355.0431"
+       y="188.35721"
+       id="text4420-97-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-7"
+         x="1355.0431"
+         y="188.35721"
+         style="font-size:12.5px">Tipo de adquisición</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1482.3224"
+       y="187.34708"
+       id="text4420-97-7-11"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-54"
+         x="1482.3224"
+         y="187.34708"
+         style="font-size:12.5px">Nombre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1539.9011"
+       y="187.34708"
+       id="text4420-97-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-75"
+         x="1539.9011"
+         y="187.34708"
+         style="font-size:12.5px">Nombre Proveedor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1663.1396"
+       y="187.34708"
+       id="text4420-97-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-0"
+         x="1663.1396"
+         y="187.34708"
+         style="font-size:12.5px">Fecha Ingreso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1758.094"
+       y="187.34708"
+       id="text4420-97-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-73"
+         x="1758.094"
+         y="187.34708"
+         style="font-size:12.5px">Monto Total</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1837.8961"
+       y="187.34708"
+       id="text4420-97-7-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-2"
+         x="1837.8961"
+         y="187.34708"
+         style="font-size:12.5px">Código de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1982.3479"
+       y="186.33688"
+       id="text4420-97-7-27"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-3"
+         x="1982.3479"
+         y="186.33688"
+         style="font-size:12.5px">Estado de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2125.7896"
+       y="186.33694"
+       id="text4420-97-7-58"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-25"
+         x="2125.7896"
+         y="186.33694"
+         style="font-size:12.5px">Tipo de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2253.0688"
+       y="186.33694"
+       id="text4420-97-7-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-83"
+         x="2253.0688"
+         y="186.33694"
+         style="font-size:12.5px">Nombre de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2402.5715"
+       y="185.32681"
+       id="text4420-97-7-34"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-06"
+         x="2402.5715"
+         y="185.32681"
+         style="font-size:12.5px">Fecha de Ingreso de Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2608.6426"
+       y="185.32681"
+       id="text4420-97-7-36"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-9"
+         x="2608.6426"
+         y="185.32681"
+         style="font-size:12.5px">Numero Factura</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1350.1113,166.94208 0.021,270.89608"
+       id="path5105-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1251.6211,165.42685 0.021,270.89608"
+       id="path5105-4-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96595353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1168.8148,165.42761 -0.031,270.89456"
+       id="path5105-4-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.38803995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1050.0884,166.43522 -0.01,270.89964"
+       id="path5105-4-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1477.8953,166.437 0.021,270.89608"
+       id="path5105-4-50"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1535.474,166.437 0.021,270.89608"
+       id="path5105-4-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1659.7228,166.437 0.021,270.89608"
+       id="path5105-4-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1755.6873,167.44716 0.021,270.89608"
+       id="path5105-4-59"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1835.4893,166.437 0.021,270.89608"
+       id="path5105-4-09"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1977.9208,166.437 0.021,270.89607"
+       id="path5105-4-11"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2121.3624,165.42685 0.021,270.89607"
+       id="path5105-4-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2246.6213,165.42685 0.021,270.89608"
+       id="path5105-4-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2397.1341,165.42685 0.021,270.89608"
+       id="path5105-4-57"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2604.2154,167.44715 0.021,270.89608"
+       id="path5105-4-21"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.03796017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 983.76153,195.2849 2709.4613,195.343"
+       id="path5105-4-1-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="988.99194"
+       y="139.25046"
+       id="text5245"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5247"
+         x="988.99194"
+         y="139.25046"
+         style="font-size:16.25px">Agregar Suministro</tspan></text>
+    <rect
+       style="fill:url(#radialGradient6725);fill-opacity:1;stroke:url(#linearGradient5273);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5249"
+       width="133.34013"
+       height="38.385796"
+       x="1003.1341"
+       y="459.46884" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1036.2025"
+       y="485.16507"
+       id="text5245-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5247-1"
+         x="1036.2025"
+         y="485.16507"
+         style="font-size:16.25px">Guardar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient6725-6);fill-opacity:1;stroke:url(#linearGradient5273-3);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5249-1"
+       width="133.34013"
+       height="38.385796"
+       x="1183.9514"
+       y="458.45865" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1214.9996"
+       y="484.15488"
+       id="text5245-9-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5247-1-4"
+         x="1214.9996"
+         y="484.15488"
+         style="font-size:16.25px">Cancelar</tspan></text>
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.81448644;stroke-opacity:1"
+       id="rect3357-0-85"
+       width="154.73886"
+       height="402.22626"
+       x="827.56818"
+       y="656.38721" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-8"
+       width="720.68854"
+       height="105.50553"
+       x="828.44623"
+       y="552.18915" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-6"
+       width="567.70575"
+       height="402.04071"
+       x="982.21429"
+       y="656.48004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1008.4579"
+       y="617.06378"
+       id="text4305-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-6"
+         x="1008.4579"
+         y="617.06378"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-5"
+       cx="884.71429"
+       cy="605.44702"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-0"
+       width="108.08632"
+       height="30.304577"
+       x="884.20917"
+       y="590.7998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="829.29706"
+       y="687.01599"
+       id="text4420-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-625"
+         x="829.29706"
+         y="687.01599"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="834.82684"
+       y="783.07202"
+       id="text4420-7-51"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-2"
+         x="834.82684"
+         y="783.07202"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="834.82684"
+         y="798.69702"
+         style="font-size:12.5px"
+         id="tspan4442-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="830.85785"
+       y="879.56433"
+       id="text4420-7-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="830.85785"
+         y="879.56433"
+         style="font-size:12.5px"
+         id="tspan4442-3-4">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="828.59882"
+       y="979.56946"
+       id="text4420-7-5-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="828.59882"
+         y="979.56946"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-9">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="996.19049"
+       y="687.60028"
+       id="text6920"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922"
+         x="996.19049"
+         y="687.60028"
+         style="font-size:16.25px">Modificar Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="993.99646"
+       y="737.97461"
+       id="text4420-97-7-42"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99"
+         x="993.99646"
+         y="737.97461"
+         style="font-size:12.5px">Código Suministro</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942"
+       width="114.28571"
+       height="24.761906"
+       x="994.28571"
+       y="748.55267" />
+    <rect
+       style="fill:url(#radialGradient7001);fill-opacity:1;stroke:url(#linearGradient6991);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9"
+       width="60"
+       height="24.761906"
+       x="1120"
+       y="748.55267" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1129.55"
+       y="765.58478"
+       id="text4420-97-7-42-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0"
+         x="1129.55"
+         y="765.58478"
+         style="font-size:12.5px">Buscar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="993.3595"
+       y="842.7276"
+       id="text4420-97-7-42-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-9"
+         x="993.3595"
+         y="842.7276"
+         style="font-size:12.5px">Descripción</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7021"
+       width="318.09525"
+       height="89.523811"
+       x="996.19049"
+       y="852.36218" />
+    <rect
+       style="fill:url(#radialGradient7001-7);fill-opacity:1;stroke:url(#linearGradient6991-1);stroke-width:3.27504468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6"
+       width="67.444"
+       height="24.586861"
+       x="1042.4685"
+       y="988.6402" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1051.931"
+       y="1005.5848"
+       id="text4420-97-7-42-2-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4"
+         x="1051.931"
+         y="1005.5848"
+         style="font-size:12.5px">Guardar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-3);fill-opacity:1;stroke:url(#linearGradient6991-1-3);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8"
+       width="74.898376"
+       height="24.42219"
+       x="1145.4078"
+       y="988.72253" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1154.7881"
+       y="1005.5848"
+       id="text4420-97-7-42-2-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1"
+         x="1154.7881"
+         y="1005.5848"
+         style="font-size:12.5px">Cancelar</tspan></text>
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.81448644;stroke-opacity:1"
+       id="rect3357-0-85-2"
+       width="154.73886"
+       height="402.22626"
+       x="826.66852"
+       y="1233.5042" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-8-2"
+       width="720.68854"
+       height="105.50553"
+       x="827.54657"
+       y="1129.306" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-6-4"
+       width="567.70575"
+       height="402.04071"
+       x="981.31464"
+       y="1233.5969" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1007.5582"
+       y="1194.1807"
+       id="text4305-2-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-6-2"
+         x="1007.5582"
+         y="1194.1807"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-5-0"
+       cx="883.81464"
+       cy="1182.564"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-0-1"
+       width="108.08632"
+       height="30.304577"
+       x="883.30951"
+       y="1167.9167" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="828.3974"
+       y="1264.1329"
+       id="text4420-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-625-8"
+         x="828.3974"
+         y="1264.1329"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="833.92719"
+       y="1360.189"
+       id="text4420-7-51-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-2-1"
+         x="833.92719"
+         y="1360.189"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="833.92719"
+         y="1375.814"
+         style="font-size:12.5px"
+         id="tspan4442-7-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="829.95819"
+       y="1456.6813"
+       id="text4420-7-5-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="829.95819"
+         y="1456.6813"
+         style="font-size:12.5px"
+         id="tspan4442-3-4-6">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="827.69916"
+       y="1556.6864"
+       id="text4420-7-5-6-7-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="827.69916"
+         y="1556.6864"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-9-3">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="995.29083"
+       y="1264.7172"
+       id="text6920-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5"
+         x="995.29083"
+         y="1264.7172"
+         style="font-size:16.25px">Anular Suministro</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-0"
+       width="114.28571"
+       height="24.761906"
+       x="992.24823"
+       y="1375.0942" />
+    <rect
+       style="fill:url(#radialGradient7001-8);fill-opacity:1;stroke:url(#linearGradient6991-2);stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-2"
+       width="60"
+       height="24.761906"
+       x="1119.1005"
+       y="1375.4943" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1128.6505"
+       y="1392.5264"
+       id="text4420-97-7-42-2-87"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-2"
+         x="1128.6505"
+         y="1392.5264"
+         style="font-size:12.5px">Buscar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-7);fill-opacity:1;stroke:url(#linearGradient6991-1-2);stroke-width:3.27504468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-1"
+       width="67.444"
+       height="24.586861"
+       x="1041.569"
+       y="1565.7571" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1049.722"
+       y="1582.7017"
+       id="text4420-97-7-42-2-8-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-6"
+         x="1049.722"
+         y="1582.7017"
+         style="font-size:12.5px">Eliminar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9"
+       width="74.898376"
+       height="24.42219"
+       x="1144.5083"
+       y="1565.8395" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1153.8885"
+       y="1582.7017"
+       id="text4420-97-7-42-2-8-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3"
+         x="1153.8885"
+         y="1582.7017"
+         style="font-size:12.5px">Cancelar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-0-0"
+       width="114.28571"
+       height="24.761906"
+       x="991.95038"
+       y="1291.4449" />
+    <rect
+       style="fill:#e2e2e2;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-0-0-0"
+       width="114.28571"
+       height="24.761906"
+       x="992.01202"
+       y="1316.4775" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1010.2062"
+       y="1333.6952"
+       id="text4420-97-7-42-5-5-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-9-4-2-7"
+         x="1010.2062"
+         y="1333.6952"
+         style="font-size:12.5px">Nombre</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1090.0285,1300.5104 5.698,8.8319 5.1282,-8.8319 -9.9715,0"
+       id="path7320"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1093.4624,1304.6831 c -1.136,-1.7749 -2.0655,-3.3089 -2.0655,-3.4088 0,-0.1 1.8696,-0.1817 4.1548,-0.1817 2.2851,0 4.112,0.099 4.0598,0.2208 -0.3417,0.7946 -3.8021,6.6149 -3.928,6.6069 -0.086,-0.01 -1.085,-1.4622 -2.2211,-3.2372 z"
+       id="path7322"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#e8e8e8;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-0-0-0-5"
+       width="114.28571"
+       height="24.761906"
+       x="992.03003"
+       y="1341.3977" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1010.3241"
+       y="1358.6154"
+       id="text4420-97-7-42-5-5-8-6-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-9-4-2-7-3"
+         x="1010.3241"
+         y="1358.6154"
+         style="font-size:12.5px">Codigo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1009.6683"
+       y="1310.5459"
+       id="text4420-97-7-42-5-5-8-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-9-4-2-7-30"
+         x="1009.6683"
+         y="1310.5459"
+         style="font-size:12.5px">Nombre</tspan></text>
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.87558496;stroke-opacity:1"
+       id="rect3357-0-85-2-1"
+       width="154.67776"
+       height="465.0191"
+       x="825.42627"
+       y="1780.6488" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-8-2-6"
+       width="720.68854"
+       height="105.50553"
+       x="826.2738"
+       y="1676.4202" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-6-4-0"
+       width="567.70575"
+       height="464.89465"
+       x="980.04187"
+       y="1780.7111" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1006.2855"
+       y="1741.2948"
+       id="text4305-2-9-0-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-6-2-3"
+         x="1006.2855"
+         y="1741.2948"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-5-0-8"
+       cx="882.54187"
+       cy="1729.6781"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-0-1-5"
+       width="108.08632"
+       height="30.304577"
+       x="882.03674"
+       y="1715.0309" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="827.12463"
+       y="1811.2472"
+       id="text4420-4-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-625-8-4"
+         x="827.12463"
+         y="1811.2472"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="832.65442"
+       y="1907.3032"
+       id="text4420-7-51-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-2-1-2"
+         x="832.65442"
+         y="1907.3032"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="832.65442"
+         y="1922.9282"
+         style="font-size:12.5px"
+         id="tspan4442-7-5-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="828.68542"
+       y="2003.7954"
+       id="text4420-7-5-2-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="828.68542"
+         y="2003.7954"
+         style="font-size:12.5px"
+         id="tspan4442-3-4-6-7">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="826.42639"
+       y="2103.8005"
+       id="text4420-7-5-6-7-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="826.42639"
+         y="2103.8005"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-9-3-8">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="994.01807"
+       y="1811.8314"
+       id="text6920-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8"
+         x="994.01807"
+         y="1811.8314"
+         style="font-size:16.25px">Solicitar Suministro</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-7-1);fill-opacity:1;stroke:url(#linearGradient6991-1-2-3);stroke-width:3.27504468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-1-7"
+       width="67.444"
+       height="24.586861"
+       x="1001.0124"
+       y="2182.2727" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1009.1655"
+       y="2199.2173"
+       id="text4420-97-7-42-2-8-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-6-1"
+         x="1009.1655"
+         y="2199.2173"
+         style="font-size:12.5px">Solicitar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-4);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-0);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-7"
+       width="74.898376"
+       height="24.42219"
+       x="1103.9518"
+       y="2182.355" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1113.332"
+       y="2199.2173"
+       id="text4420-97-7-42-2-8-7-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-0"
+         x="1113.332"
+         y="2199.2173"
+         style="font-size:12.5px">Cancelar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="993.41699"
+       y="1866.3552"
+       id="text6920-9-8-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-2"
+         x="993.41699"
+         y="1866.3552"
+         style="font-size:16.25px">Codigo de Suministro</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577"
+       width="168.91995"
+       height="24.879683"
+       x="1174.5829"
+       y="1849.131" />
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-6);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-3);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-1"
+       width="74.898376"
+       height="24.42219"
+       x="1372.8361"
+       y="1850.0144" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1387.4541"
+       y="1866.8766"
+       id="text4420-97-7-42-2-8-7-6-12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-8"
+         x="1387.4541"
+         y="1866.8766"
+         style="font-size:12.5px">Buscar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="993.41699"
+       y="1927.8997"
+       id="text6920-9-8-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-20"
+         x="993.41699"
+         y="1927.8997"
+         style="font-size:16.25px">Fecha de Salida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="994.72638"
+       y="1963.2551"
+       id="text6920-9-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-7"
+         x="994.72638"
+         y="1963.2551"
+         style="font-size:16.25px">Oficina Solicitante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="996.03589"
+       y="1993.3726"
+       id="text6920-9-8-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-1"
+         x="996.03589"
+         y="1993.3726"
+         style="font-size:16.25px">Nombre Solicitante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="996.03589"
+       y="2024.7994"
+       id="text6920-9-8-94"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-19"
+         x="996.03589"
+         y="2024.7994"
+         style="font-size:16.25px">Numero Boleta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="996.03589"
+       y="2053.6074"
+       id="text6920-9-8-97"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-4"
+         x="996.03589"
+         y="2053.6074"
+         style="font-size:16.25px">Cantidad de suministro entregado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="996.47601"
+       y="2083.4595"
+       id="text6920-9-8-97-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-4-4"
+         x="996.47601"
+         y="2083.4595"
+         style="font-size:16.25px">Unidad de Medida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="993.85706"
+       y="2110.958"
+       id="text6920-9-8-97-69"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-4-2"
+         x="993.85706"
+         y="2110.958"
+         style="font-size:16.25px">Descripción</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-3"
+       width="168.91995"
+       height="24.879683"
+       x="1282.6132"
+       y="1908.0924" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-5"
+       width="168.91995"
+       height="24.879683"
+       x="1282.6132"
+       y="1940.8289" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-9"
+       width="168.91995"
+       height="24.879683"
+       x="1283.623"
+       y="1970.9463" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-30"
+       width="168.91995"
+       height="24.879683"
+       x="1283.9226"
+       y="2001.0637" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-56"
+       width="168.91995"
+       height="24.879683"
+       x="1283.9226"
+       y="2031.1814" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-8"
+       width="168.91995"
+       height="24.879683"
+       x="1283.9226"
+       y="2061.2988" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-1"
+       width="168.91995"
+       height="52.378281"
+       x="1285.132"
+       y="2090.1067" />
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.8269996;stroke-opacity:1"
+       id="rect3357-0-85-2-7"
+       width="154.72635"
+       height="414.71375"
+       x="823.034"
+       y="2403.2883" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-8-2-5"
+       width="720.68854"
+       height="105.50553"
+       x="823.90576"
+       y="2299.084" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-6-4-9"
+       width="567.70575"
+       height="417.31848"
+       x="977.67383"
+       y="2403.3748" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1003.9174"
+       y="2363.9585"
+       id="text4305-2-9-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-6-2-30"
+         x="1003.9174"
+         y="2363.9585"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-5-0-7"
+       cx="880.17383"
+       cy="2352.3418"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-0-1-3"
+       width="108.08632"
+       height="30.304577"
+       x="879.6687"
+       y="2337.6946" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="824.75659"
+       y="2433.9109"
+       id="text4420-4-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-625-8-8"
+         x="824.75659"
+         y="2433.9109"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="830.28638"
+       y="2529.9668"
+       id="text4420-7-51-5-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-2-1-6"
+         x="830.28638"
+         y="2529.9668"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="830.28638"
+         y="2545.5918"
+         style="font-size:12.5px"
+         id="tspan4442-7-5-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="826.31738"
+       y="2626.4592"
+       id="text4420-7-5-2-4-26"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="826.31738"
+         y="2626.4592"
+         style="font-size:12.5px"
+         id="tspan4442-3-4-6-9">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="824.05835"
+       y="2726.4644"
+       id="text4420-7-5-6-7-7-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="824.05835"
+         y="2726.4644"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-9-3-5">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="991.65002"
+       y="2434.4951"
+       id="text6920-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-4"
+         x="991.65002"
+         y="2434.4951"
+         style="font-size:16.25px">Consultar Suministros Ingresados</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-7-0);fill-opacity:1;stroke:url(#linearGradient6991-1-2-4);stroke-width:3.48355198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-1-6"
+       width="76.957718"
+       height="24.378353"
+       x="1033.8658"
+       y="2782.8613" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1041.9146"
+       y="2799.7017"
+       id="text4420-97-7-42-2-8-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-6-3"
+         x="1041.9146"
+         y="2799.7017"
+         style="font-size:12.5px">Consultar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-1);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-8);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-2"
+       width="74.898376"
+       height="24.42219"
+       x="1136.7008"
+       y="2782.8396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1146.0811"
+       y="2799.7017"
+       id="text4420-97-7-42-2-8-7-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-9"
+         x="1146.0811"
+         y="2799.7017"
+         style="font-size:12.5px">Cancelar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="989.96228"
+       y="2476.5918"
+       id="text6920-9-8-2-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-2-6"
+         x="989.96228"
+         y="2476.5918"
+         style="font-size:16.25px">Codigo de Suministro</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-6"
+       width="168.91995"
+       height="24.879683"
+       x="1171.1282"
+       y="2459.3674" />
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-6-4);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-3-6);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-1-9"
+       width="74.898376"
+       height="24.42219"
+       x="1369.3813"
+       y="2460.251" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1383.9994"
+       y="2477.113"
+       id="text4420-97-7-42-2-8-7-6-12-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-8-3"
+         x="1383.9994"
+         y="2477.113"
+         style="font-size:12.5px">Buscar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4955-4"
+       width="541.75177"
+       height="270.72089"
+       x="989.56897"
+       y="2493.6433" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="995.72717"
+       y="2515.4758"
+       id="text4420-97-7-39"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-02"
+         x="995.72717"
+         y="2515.4758"
+         style="font-size:12.5px">Nombre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1058.7585"
+       y="2515.4758"
+       id="text4420-97-7-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-5-3"
+         x="1058.7585"
+         y="2515.4758"
+         style="font-size:12.5px">Rango de Fechas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1179.9769"
+       y="2515.4758"
+       id="text4420-97-7-2-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-6-4"
+         x="1179.9769"
+         y="2515.4758"
+         style="font-size:12.5px">Adquisición</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1259.7789"
+       y="2515.4758"
+       id="text4420-97-7-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-8-2"
+         x="1259.7789"
+         y="2515.4758"
+         style="font-size:12.5px">Numero Factura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1364.7942"
+       y="2515.4758"
+       id="text4420-97-7-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-7-1"
+         x="1364.7942"
+         y="2515.4758"
+         style="font-size:12.5px">Estado Suministro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1488.0735"
+       y="2514.4656"
+       id="text4420-97-7-11-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-54-1"
+         x="1488.0735"
+         y="2514.4656"
+         style="font-size:12.5px">Tipo</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1363.8624,2494.0607 0.021,270.896"
+       id="path5105-4-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1257.3722,2492.5454 0.021,270.8961"
+       id="path5105-4-5-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96595353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1174.5659,2492.5462 -0.031,270.8946"
+       id="path5105-4-6-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.38803995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1055.8395,2493.5538 -0.01,270.8996"
+       id="path5105-4-1-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1483.6464,2493.5556 0.021,270.8961"
+       id="path5105-4-50-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.58145535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 989.51256,2522.4035 541.54754,0.058"
+       id="path5105-4-1-2-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.8269996;stroke-opacity:1"
+       id="rect3357-0-85-2-7-9"
+       width="154.72635"
+       height="414.71375"
+       x="795.97839"
+       y="2988.9551" />
+    <rect
+       style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.55031568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336-1-8-2-5-3"
+       width="720.68854"
+       height="105.50553"
+       x="796.85016"
+       y="2884.7507" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-opacity:1"
+       id="rect4159-7-6-4-9-6"
+       width="567.70575"
+       height="417.31848"
+       x="950.61823"
+       y="2989.0415" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="976.86182"
+       y="2949.6252"
+       id="text4305-2-9-0-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307-1-6-2-30-2"
+         x="976.86182"
+         y="2949.6252"
+         style="font-size:32.5px">Control de Inventario de Bodega</tspan></text>
+    <ellipse
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4309-6-5-0-7-8"
+       cx="853.11823"
+       cy="2938.0085"
+       rx="42.931484"
+       ry="39.901024" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4311-5-0-1-3-7"
+       width="108.08632"
+       height="30.304577"
+       x="852.6131"
+       y="2923.3613" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="797.70099"
+       y="3019.5776"
+       id="text4420-4-0-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-625-8-8-9"
+         x="797.70099"
+         y="3019.5776"
+         style="font-size:12.5px">Administrar Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="803.23077"
+       y="3115.6335"
+       id="text4420-7-51-5-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-5-2-1-6-1"
+         x="803.23077"
+         y="3115.6335"
+         style="font-size:12.5px">Administrar Usuarios</tspan><tspan
+         sodipodi:role="line"
+         x="803.23077"
+         y="3131.2585"
+         style="font-size:12.5px"
+         id="tspan4442-7-5-8-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="799.26178"
+       y="3212.126"
+       id="text4420-7-5-2-4-26-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="799.26178"
+         y="3212.126"
+         style="font-size:12.5px"
+         id="tspan4442-3-4-6-9-8">Solicitud de Suministros</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="797.00275"
+       y="3312.1311"
+       id="text4420-7-5-6-7-7-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="797.00275"
+         y="3312.1311"
+         style="font-size:12.5px"
+         id="tspan4442-3-1-9-3-5-2">Administrar Inventario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="964.59442"
+       y="3020.1619"
+       id="text6920-9-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-4-3"
+         x="964.59442"
+         y="3020.1619"
+         style="font-size:16.25px">Consultar Salida de Suministros</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-7-0-9);fill-opacity:1;stroke:url(#linearGradient6991-1-2-4-7);stroke-width:3.48355198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-1-6-3"
+       width="76.957718"
+       height="24.378353"
+       x="1006.8102"
+       y="3368.5281" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1014.8589"
+       y="3385.3684"
+       id="text4420-97-7-42-2-8-5-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-6-3-4"
+         x="1014.8589"
+         y="3385.3684"
+         style="font-size:12.5px">Consultar</tspan></text>
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-1-8);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-8-4);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-2-0"
+       width="74.898376"
+       height="24.42219"
+       x="1109.6453"
+       y="3368.5063" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1119.0255"
+       y="3385.3684"
+       id="text4420-97-7-42-2-8-7-6-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-9-8"
+         x="1119.0255"
+         y="3385.3684"
+         style="font-size:12.5px">Cancelar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="962.90668"
+       y="3062.2585"
+       id="text6920-9-8-2-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6922-5-8-2-6-0"
+         x="962.90668"
+         y="3062.2585"
+         style="font-size:16.25px">Codigo de Suministro</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7577-6-2"
+       width="168.91995"
+       height="24.879683"
+       x="1144.0726"
+       y="3045.0342" />
+    <rect
+       style="fill:url(#radialGradient7001-7-3-7-6-4-0);fill-opacity:1;stroke:url(#linearGradient6991-1-3-0-3-6-2);stroke-width:3.43971562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6942-9-6-8-9-1-9-5"
+       width="74.898376"
+       height="24.42219"
+       x="1342.3258"
+       y="3045.9177" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1356.9438"
+       y="3062.7798"
+       id="text4420-97-7-42-2-8-7-6-12-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-99-0-4-1-3-8-3-5"
+         x="1356.9438"
+         y="3062.7798"
+         style="font-size:12.5px">Buscar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4955-4-8"
+       width="541.75177"
+       height="270.72089"
+       x="962.51337"
+       y="3079.3101" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="968.67157"
+       y="3101.1426"
+       id="text4420-97-7-39-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-02-4"
+         x="968.67157"
+         y="3101.1426"
+         style="font-size:12.5px">Nombre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1031.703"
+       y="3101.1426"
+       id="text4420-97-7-3-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-5-3-1"
+         x="1031.703"
+         y="3101.1426"
+         style="font-size:12.5px">Oficina Solicitante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1152.9214"
+       y="3101.1426"
+       id="text4420-97-7-2-0-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-6-4-2"
+         x="1152.9214"
+         y="3101.1426"
+         style="font-size:12.5px">Nombre Solicitante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1291.7386"
+       y="3101.1426"
+       id="text4420-97-7-5-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-7-1-0"
+         x="1291.7386"
+         y="3101.1426"
+         style="font-size:12.5px">Fecha de Salida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1403.0179"
+       y="3100.1323"
+       id="text4420-97-7-11-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422-62-3-54-1-3"
+         x="1403.0179"
+         y="3100.1323"
+         style="font-size:12.5px">Numero Boleta</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1276.8068,3079.7274 0.021,270.896"
+       id="path5105-4-3-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96595353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1147.5103,3078.2129 -0.031,270.8946"
+       id="path5105-4-6-8-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.38803995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1028.7839,3079.2205 -0.01,270.8996"
+       id="path5105-4-1-9-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79233557px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1394.5908,3079.2223 0.021,270.8961"
+       id="path5105-4-50-4-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.58145535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 962.45696,3108.0702 541.54754,0.058"
+       id="path5105-4-1-2-6-6"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

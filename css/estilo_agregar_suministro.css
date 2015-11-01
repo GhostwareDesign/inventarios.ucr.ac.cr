@@ -1,0 +1,64 @@
+.sombra-contenedora{
+    -webkit-box-shadow: 2px 3px 21px 1px rgba(0,0,0,0.43);
+    -moz-box-shadow: 2px 3px 21px 1px rgba(0,0,0,0.43);
+    box-shadow: 2px 3px 21px 1px rgba(0,0,0,0.43);
+}
+.fecha{
+    display: block; font-size: 15px; margin: 0px;
+}
+.caja-size{
+    margin-left: 50%;
+    width: 150px;
+    height: 70px;
+    float: left;
+}
+.caja-factura{
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    position: relative;
+}
+
+.lbl-font-sie {
+    font-size: 17px;
+}
+.inv-textfield-fecha{
+    position: relative;
+    font-size: 16px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 40px;
+    max-width: 100%;
+    margin: 0;
+    padding: 20px 0; }
+
+.inv-textfield-num-factura{
+    position: relative;
+    font-size: 16px;
+    box-sizing: border-box;
+    width: 130px;
+    max-width: 100%;
+    margin: 0;
+    padding: 20px 0; 
+    display: block; 
+    clear: both;
+    margin-left: 20px;
+}
+
+.rdb-margin{
+    margin: 14px;
+    margin-left: 40px;
+}
+
+.inv-textfield-num-precio-total{
+    margin-left: 84%;
+}
+
+.btm-margin{
+    margin-left: 80%;
+}
+.lbl-fecha-server{
+    display: block; clear: both; font-size: 15px; margin-left: 20px;
+}
